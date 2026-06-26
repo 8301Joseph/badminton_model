@@ -1,0 +1,214 @@
+match_date,event,round,player_a,player_b,a_points,b_points,point_diff,winner
+2024-01-16,India Open 2024,Final,Shi Yu Qi,Lee Cheuk Yiu,81824.0,57564.0,24260.0,1
+2024-01-16,India Open 2024,Semifinal,Shi Yu Qi,Prannoy H. S.,81824.0,75487.0,6337.0,1
+2024-01-16,India Open 2024,Semifinal,Naraoka Kodai,Lee Cheuk Yiu,83515.0,57564.0,25951.0,0
+2024-01-16,India Open 2024,Quarterfinal,Prannoy H. S.,Wang Tzu Wei,75487.0,46040.0,29447.0,1
+2024-01-16,India Open 2024,Quarterfinal,Shi Yu Qi,Kenta Nishimoto,81824.0,67217.0,14607.0,1
+2024-01-16,India Open 2024,Quarterfinal,Anthony Sinisuka Ginting,Lee Cheuk Yiu,83331.0,57564.0,25767.0,0
+2024-01-16,India Open 2024,Quarterfinal,Naraoka Kodai,Jonatan Christie,83515.0,82111.0,1404.0,1
+2024-01-16,India Open 2024,Round of 16,Wang Tzu Wei,Su Li Yang,46040.0,38150.0,7890.0,1
+2024-01-16,India Open 2024,Round of 16,Prannoy H. S.,Priyanshu Rajawat,75487.0,42110.0,33377.0,1
+2024-01-16,India Open 2024,Round of 16,Shi Yu Qi,Rasmus Gemke,81824.0,45709.0,36115.0,1
+2024-01-16,India Open 2024,Round of 16,Kunlavut Vitidsarn,Lee Cheuk Yiu,81578.0,57564.0,24014.0,0
+2024-01-16,India Open 2024,Round of 16,Anthony Sinisuka Ginting,Kenta Nishimoto,83331.0,67217.0,16114.0,1
+2024-01-16,India Open 2024,Round of 16,Jonatan Christie,Lee Zii Jia,82111.0,68226.0,13885.0,0
+2024-01-16,India Open 2024,Round of 16,Naraoka Kodai,Takuma Obayashi,83515.0,38220.0,45295.0,1
+2024-01-16,India Open 2024,Round of 32,Wang Tzu Wei,Kiran George,46040.0,36490.0,9550.0,1
+2024-01-16,India Open 2024,Round of 32,Christo Popov,Su Li Yang,46430.0,38150.0,8280.0,0
+2024-01-16,India Open 2024,Round of 32,Prannoy H. S.,Chou Tien Chen,75487.0,61737.0,13750.0,1
+2024-01-16,India Open 2024,Round of 32,Lakshya Sen,Priyanshu Rajawat,57851.0,42110.0,15741.0,0
+2024-01-16,India Open 2024,Round of 32,Lee Cheuk Yiu,Kidambi Srikanth,57564.0,48183.0,9381.0,1
+2024-01-16,India Open 2024,Round of 32,Kunlavut Vitidsarn,Magnus Johannessen,81578.0,39950.0,41628.0,1
+2024-01-16,India Open 2024,Round of 32,Kenta Nishimoto,Lu Guang Zu,67217.0,55570.0,11647.0,1
+2024-01-16,India Open 2024,Round of 32,Anthony Sinisuka Ginting,Kanta Tsuneyama,83331.0,63821.0,19510.0,1
+2024-01-16,India Open 2024,Round of 32,Lin Chun Yi,Rasmus Gemke,51528.0,45709.0,5819.0,0
+2024-01-16,India Open 2024,Round of 32,Shi Yu Qi,Weng Hong Yang,81824.0,57040.0,24784.0,1
+2024-01-16,India Open 2024,Round of 32,Lee Zii Jia,Brian Yang,68226.0,47686.0,20540.0,1
+2024-01-16,India Open 2024,Round of 32,Jonatan Christie,Ng Ka Long Angus,82111.0,54522.0,27589.0,1
+2024-01-16,India Open 2024,Round of 32,Naraoka Kodai,Toma Junior Popov,83515.0,47907.0,35608.0,1
+2024-01-16,India Open 2024,Round of 32,Li Shifeng,Kantaphon Wangcharoen,83398.0,38024.0,45374.0,1
+2024-01-16,India Open 2024,Round of 32,Lee Cheuk Yiu,Koki Watanabe,57564.0,48920.0,8644.0,0
+2024-01-16,India Open 2024,Round of 16,Li Shifeng,Koki Watanabe,83398.0,48920.0,34478.0,0
+2024-03-12,All England Open 2024,Final,Anthony Sinisuka Ginting,Jonatan Christie,81501.0,73131.0,8370.0,0
+2024-03-12,All England Open 2024,Semifinal,Anthony Sinisuka Ginting,Christo Popov,81501.0,50230.0,31271.0,1
+2024-03-12,All England Open 2024,Semifinal,Jonatan Christie,Lakshya Sen,73131.0,56321.0,16810.0,1
+2024-03-12,All England Open 2024,Quarterfinal,Viktor Axelsen,Anthony Sinisuka Ginting,97015.0,81501.0,15514.0,0
+2024-03-12,All England Open 2024,Quarterfinal,Koki Watanabe,Christo Popov,54981.0,50230.0,4751.0,0
+2024-03-12,All England Open 2024,Quarterfinal,Lee Zii Jia,Lakshya Sen,70096.0,56321.0,13775.0,0
+2024-03-12,All England Open 2024,Quarterfinal,Shi Yu Qi,Jonatan Christie,90184.0,73131.0,17053.0,0
+2024-03-12,All England Open 2024,Round of 16,Viktor Axelsen,Weng Hong Yang,97015.0,61750.0,35265.0,1
+2024-03-12,All England Open 2024,Round of 16,Anthony Sinisuka Ginting,Kenta Nishimoto,81501.0,67182.0,14319.0,1
+2024-03-12,All England Open 2024,Round of 16,Koki Watanabe,Toma Junior Popov,54981.0,49325.0,5656.0,1
+2024-03-12,All England Open 2024,Round of 16,Christo Popov,Su Li Yang,50230.0,42560.0,7670.0,1
+2024-03-12,All England Open 2024,Round of 16,Lee Zii Jia,Loh Kean Yew,70096.0,66702.0,3394.0,1
+2024-03-12,All England Open 2024,Round of 16,Anders Antonsen,Lakshya Sen,85944.0,56321.0,29623.0,0
+2024-03-12,All England Open 2024,Round of 16,Kunlavut Vitidsarn,Jonatan Christie,73398.0,73131.0,267.0,0
+2024-03-12,All England Open 2024,Round of 16,Shi Yu Qi,Chico Aura Dwi Wardoyo,90184.0,41729.0,48455.0,1
+2024-03-12,All England Open 2024,Round of 32,Viktor Axelsen,Kidambi Srikanth,97015.0,49623.0,47392.0,1
+2024-03-12,All England Open 2024,Round of 32,Weng Hong Yang,Lin Chun Yi,61750.0,54136.0,7614.0,1
+2024-03-12,All England Open 2024,Round of 32,Anthony Sinisuka Ginting,Lee Cheuk Yiu,81501.0,63499.0,18002.0,1
+2024-03-12,All England Open 2024,Round of 32,Kenta Nishimoto,Brian Yang,67182.0,53273.0,13909.0,1
+2024-03-12,All England Open 2024,Round of 32,Li Shifeng,Toma Junior Popov,83948.0,49325.0,34623.0,0
+2024-03-12,All England Open 2024,Round of 32,Koki Watanabe,Wang Tzu Wei,54981.0,48960.0,6021.0,1
+2024-03-12,All England Open 2024,Round of 32,Prannoy H. S.,Su Li Yang,77647.0,42560.0,35087.0,0
+2024-03-12,All England Open 2024,Round of 32,Lee Cheuk Yiu,Christo Popov,63499.0,50230.0,13269.0,0
+2024-03-12,All England Open 2024,Round of 32,Loh Kean Yew,Ng Ka Long Angus,66702.0,49136.0,17566.0,1
+2024-03-12,All England Open 2024,Round of 32,Naraoka Kodai,Lee Zii Jia,81015.0,70096.0,10919.0,0
+2024-03-12,All England Open 2024,Round of 32,Lakshya Sen,Magnus Johannessen,56321.0,41540.0,14781.0,1
+2024-03-12,All England Open 2024,Round of 32,Anders Antonsen,Kanta Tsuneyama,85944.0,56981.0,28963.0,1
+2024-03-12,All England Open 2024,Round of 32,Jonatan Christie,Chou Tien Chen,73131.0,62398.0,10733.0,1
+2024-03-12,All England Open 2024,Round of 32,Kunlavut Vitidsarn,Lu Guang Zu,73398.0,59041.0,14357.0,1
+2024-03-12,All England Open 2024,Round of 32,Priyanshu Rajawat,Chico Aura Dwi Wardoyo,44710.0,41729.0,2981.0,0
+2024-03-12,All England Open 2024,Round of 32,Shi Yu Qi,Rasmus Gemke,90184.0,46729.0,43455.0,1
+2024-04-09,Badminton Asia Championships 2024,Final,Jonatan Christie,Li Shifeng,81531.0,77998.0,3533.0,1
+2024-04-09,Badminton Asia Championships 2024,Semifinal,Shi Yu Qi,Jonatan Christie,90984.0,81531.0,9453.0,0
+2024-04-09,Badminton Asia Championships 2024,Semifinal,Naraoka Kodai,Li Shifeng,81015.0,77998.0,3017.0,0
+2024-04-09,Badminton Asia Championships 2024,Quarterfinal,Shi Yu Qi,Kunlavut Vitidsarn,90984.0,77948.0,13036.0,1
+2024-04-09,Badminton Asia Championships 2024,Quarterfinal,Jonatan Christie,Lee Zii Jia,81531.0,68296.0,13235.0,1
+2024-04-09,Badminton Asia Championships 2024,Quarterfinal,Naraoka Kodai,Lin Chun Yi,81015.0,57286.0,23729.0,1
+2024-04-09,Badminton Asia Championships 2024,Quarterfinal,Anthony Sinisuka Ginting,Li Shifeng,85101.0,77998.0,7103.0,0
+2024-04-09,Badminton Asia Championships 2024,Round of 16,Shi Yu Qi,Kenta Nishimoto,90984.0,64982.0,26002.0,1
+2024-04-09,Badminton Asia Championships 2024,Round of 16,Kunlavut Vitidsarn,Nguyen Hai Dang,77948.0,21200.0,56748.0,1
+2024-04-09,Badminton Asia Championships 2024,Round of 16,Jonatan Christie,Lee Cheuk Yiu,81531.0,63499.0,18032.0,1
+2024-04-09,Badminton Asia Championships 2024,Round of 16,Lee Zii Jia,Chou Tien Chen,68296.0,62498.0,5798.0,1
+2024-04-09,Badminton Asia Championships 2024,Round of 16,Prannoy H. S.,Lin Chun Yi,77647.0,57286.0,20361.0,0
+2024-04-09,Badminton Asia Championships 2024,Round of 16,Naraoka Kodai,Jeon Hyeok Jin,81015.0,33309.0,47706.0,1
+2024-04-09,Badminton Asia Championships 2024,Round of 16,Li Shifeng,Wang Tzu Wei,77998.0,52710.0,25288.0,1
+2024-04-09,Badminton Asia Championships 2024,Round of 16,Anthony Sinisuka Ginting,Somi Romdhani,85101.0,15560.0,69541.0,1
+2024-04-09,Badminton Asia Championships 2024,Round of 32,Shi Yu Qi,Lakshya Sen,90984.0,64021.0,26963.0,1
+2024-04-09,Badminton Asia Championships 2024,Round of 32,Loh Kean Yew,Kenta Nishimoto,69912.0,64982.0,4930.0,0
+2024-04-09,Badminton Asia Championships 2024,Round of 32,Kunlavut Vitidsarn,Prince Dahal,77948.0,10480.0,67468.0,1
+2024-04-09,Badminton Asia Championships 2024,Round of 32,Viren Nettasinghe,Nguyen Hai Dang,23200.0,21200.0,2000.0,0
+2024-04-09,Badminton Asia Championships 2024,Round of 32,Lee Cheuk Yiu,Koki Watanabe,63499.0,54581.0,8918.0,1
+2024-04-09,Badminton Asia Championships 2024,Round of 32,Lee Zii Jia,Priyanshu Rajawat,68296.0,41810.0,26486.0,1
+2024-04-09,Badminton Asia Championships 2024,Round of 32,Chou Tien Chen,Weng Hong Yang,62498.0,59950.0,2548.0,1
+2024-04-09,Badminton Asia Championships 2024,Round of 32,Lin Chun Yi,Pui Pang Fong,57286.0,6790.0,50496.0,1
+2024-04-09,Badminton Asia Championships 2024,Round of 32,Prannoy H. S.,Lu Guang Zu,77647.0,60771.0,16876.0,1
+2024-04-09,Badminton Asia Championships 2024,Round of 32,Jeon Hyeok Jin,Dmitriy Panarin,33309.0,24475.0,8834.0,1
+2024-04-09,Badminton Asia Championships 2024,Round of 32,Naraoka Kodai,Ng Ka Long Angus,81015.0,49856.0,31159.0,1
+2024-04-09,Badminton Asia Championships 2024,Round of 32,Ng Tze Yong,Wang Tzu Wei,58735.0,52710.0,6025.0,0
+2024-04-09,Badminton Asia Championships 2024,Round of 32,Li Shifeng,Mahd Shaikh,77998.0,5112.0,72886.0,1
+2024-04-09,Badminton Asia Championships 2024,Round of 32,Kanta Tsuneyama,Somi Romdhani,54031.0,15560.0,38471.0,0
+2024-04-09,Badminton Asia Championships 2024,Round of 32,Anthony Sinisuka Ginting,Kidambi Srikanth,85101.0,49723.0,35378.0,1
+2024-05-14,Thailand Open 2024,Final,Lee Zii Jia,Ng Ka Long Angus,69856.0,48656.0,21200.0,1
+2024-05-14,Thailand Open 2024,Semifinal,Kunlavut Vitidsarn,Ng Ka Long Angus,79588.0,48656.0,30932.0,0
+2024-05-14,Thailand Open 2024,Semifinal,Lee Zii Jia,Chou Tien Chen,69856.0,62498.0,7358.0,1
+2024-05-14,Thailand Open 2024,Quarterfinal,Lee Cheuk Yiu,Ng Ka Long Angus,61699.0,48656.0,13043.0,0
+2024-05-14,Thailand Open 2024,Quarterfinal,Kunlavut Vitidsarn,Meiraba Luwang Maisnam,79588.0,21303.0,58285.0,1
+2024-05-14,Thailand Open 2024,Quarterfinal,Lee Zii Jia,Lu Guang Zu,69856.0,56691.0,13165.0,1
+2024-05-14,Thailand Open 2024,Quarterfinal,Naraoka Kodai,Chou Tien Chen,83597.0,62498.0,21099.0,0
+2024-05-14,Thailand Open 2024,Round of 16,Ng Ka Long Angus,Zhao Jun Peng,48656.0,35660.0,12996.0,1
+2024-05-14,Thailand Open 2024,Round of 16,Lee Cheuk Yiu,Wang Tzu Wei,61699.0,53883.0,7816.0,1
+2024-05-14,Thailand Open 2024,Round of 16,Kunlavut Vitidsarn,Leong Jun Hao,79588.0,39958.0,39630.0,1
+2024-05-14,Thailand Open 2024,Round of 16,Mads Christophersen,Meiraba Luwang Maisnam,32423.0,21303.0,11120.0,0
+2024-05-14,Thailand Open 2024,Round of 16,Lu Guang Zu,Koki Watanabe,56691.0,54944.0,1747.0,1
+2024-05-14,Thailand Open 2024,Round of 16,Lee Zii Jia,Jeon Hyeok Jin,69856.0,35973.0,33883.0,1
+2024-05-14,Thailand Open 2024,Round of 16,Chou Tien Chen,Chi Yu Jen,62498.0,37616.0,24882.0,1
+2024-05-14,Thailand Open 2024,Round of 16,Naraoka Kodai,Jason Gunawan,83597.0,19226.0,64371.0,1
+2024-05-14,Thailand Open 2024,Round of 32,Anders Antonsen,Ng Ka Long Angus,88391.0,48656.0,39735.0,0
+2024-05-14,Thailand Open 2024,Round of 32,Zhao Jun Peng,Panitchaphon Teeraratsakul,35660.0,19104.0,16556.0,1
+2024-05-14,Thailand Open 2024,Round of 32,Loh Kean Yew,Wang Tzu Wei,64752.0,53883.0,10869.0,0
+2024-05-14,Thailand Open 2024,Round of 32,Lee Cheuk Yiu,Misha Zilberman,61699.0,32541.0,29158.0,1
+2024-05-14,Thailand Open 2024,Round of 32,Kunlavut Vitidsarn,Rasmus Gemke,79588.0,49219.0,30369.0,1
+2024-05-14,Thailand Open 2024,Round of 32,Su Li Yang,Leong Jun Hao,44480.0,39958.0,4522.0,0
+2024-05-14,Thailand Open 2024,Round of 32,Prannoy H. S.,Meiraba Luwang Maisnam,75982.0,21303.0,54679.0,0
+2024-05-14,Thailand Open 2024,Round of 32,Kiran George,Mads Christophersen,41205.0,32423.0,8782.0,0
+2024-05-14,Thailand Open 2024,Round of 32,Koki Watanabe,Chan Yin Chak,54944.0,19539.0,35405.0,1
+2024-05-14,Thailand Open 2024,Round of 32,Lu Guang Zu,Kantaphon Wangcharoen,56691.0,35504.0,21187.0,1
+2024-05-14,Thailand Open 2024,Round of 32,Magnus Johannessen,Jeon Hyeok Jin,40510.0,35973.0,4537.0,0
+2024-05-14,Thailand Open 2024,Round of 32,Lee Zii Jia,Lei Lan Xi,69856.0,41526.0,28330.0,1
+2024-05-14,Thailand Open 2024,Round of 32,Chi Yu Jen,Julien Carraggi,37616.0,35947.0,1669.0,1
+2024-05-14,Thailand Open 2024,Round of 32,Chou Tien Chen,Takuma Obayashi,62498.0,43479.0,19019.0,1
+2024-05-14,Thailand Open 2024,Round of 32,Naraoka Kodai,Koo Takahashi,83597.0,28550.0,55047.0,1
+2024-05-21,Malaysia Masters 2024,Final,Viktor Axelsen,Lee Zii Jia,98715.0,69856.0,28859.0,1
+2024-05-21,Malaysia Masters 2024,Semifinal,Viktor Axelsen,Lu Guang Zu,98715.0,56691.0,42024.0,1
+2024-05-21,Malaysia Masters 2024,Semifinal,Lee Zii Jia,Ng Ka Long Angus,69856.0,48656.0,21200.0,1
+2024-05-21,Malaysia Masters 2024,Quarterfinal,Viktor Axelsen,Chou Tien Chen,98715.0,62498.0,36217.0,1
+2024-05-21,Malaysia Masters 2024,Quarterfinal,Lu Guang Zu,Jason Gunawan,56691.0,19226.0,37465.0,1
+2024-05-21,Malaysia Masters 2024,Quarterfinal,Li Shifeng,Ng Ka Long Angus,83456.0,48656.0,34800.0,0
+2024-05-21,Malaysia Masters 2024,Quarterfinal,Anders Antonsen,Lee Zii Jia,88391.0,69856.0,18535.0,0
+2024-05-21,Malaysia Masters 2024,Round of 16,Viktor Axelsen,Panitchaphon Teeraratsakul,98715.0,20794.0,77921.0,1
+2024-05-21,Malaysia Masters 2024,Round of 16,Chou Tien Chen,Koo Takahashi,62498.0,28550.0,33948.0,1
+2024-05-21,Malaysia Masters 2024,Round of 16,Lu Guang Zu,Wang Tzu Wei,56691.0,53883.0,2808.0,1
+2024-05-21,Malaysia Masters 2024,Round of 16,Chico Aura Dwi Wardoyo,Jason Gunawan,45175.0,19226.0,25949.0,0
+2024-05-21,Malaysia Masters 2024,Round of 16,Lee Cheuk Yiu,Ng Ka Long Angus,61699.0,48656.0,13043.0,0
+2024-05-21,Malaysia Masters 2024,Round of 16,Li Shifeng,Leong Jun Hao,83456.0,39958.0,43498.0,1
+2024-05-21,Malaysia Masters 2024,Round of 16,Lee Zii Jia,Kiran George,69856.0,41205.0,28651.0,1
+2024-05-21,Malaysia Masters 2024,Round of 16,Anders Antonsen,Magnus Johannessen,88391.0,40510.0,47881.0,1
+2024-05-21,Malaysia Masters 2024,Round of 32,Viktor Axelsen,Koki Watanabe,98715.0,54944.0,43771.0,1
+2024-05-21,Malaysia Masters 2024,Round of 32,Chi Yu Jen,Panitchaphon Teeraratsakul,37616.0,20794.0,16822.0,0
+2024-05-21,Malaysia Masters 2024,Round of 32,Chou Tien Chen,Rasmus Gemke,62498.0,49219.0,13279.0,1
+2024-05-21,Malaysia Masters 2024,Round of 32,Christo Popov,Koo Takahashi,54685.0,28550.0,26135.0,0
+2024-05-21,Malaysia Masters 2024,Round of 32,Loh Kean Yew,Wang Tzu Wei,64752.0,53883.0,10869.0,0
+2024-05-21,Malaysia Masters 2024,Round of 32,Lin Chun Yi,Chico Aura Dwi Wardoyo,60261.0,45175.0,15086.0,0
+2024-05-21,Malaysia Masters 2024,Round of 32,Julien Carraggi,Jason Gunawan,35947.0,19226.0,16721.0,0
+2024-05-21,Malaysia Masters 2024,Round of 32,Ng Ka Long Angus,Kantaphon Wangcharoen,48656.0,35504.0,13152.0,1
+2024-05-21,Malaysia Masters 2024,Round of 32,Lee Cheuk Yiu,Ygor Coelho,61699.0,34202.0,27497.0,1
+2024-05-21,Malaysia Masters 2024,Round of 32,Lei Lan Xi,Leong Jun Hao,41526.0,39958.0,1568.0,0
+2024-05-21,Malaysia Masters 2024,Round of 32,Li Shifeng,Toma Junior Popov,83456.0,55455.0,28001.0,1
+2024-05-21,Malaysia Masters 2024,Round of 32,Takuma Obayashi,Kiran George,43479.0,41205.0,2274.0,0
+2024-05-21,Malaysia Masters 2024,Round of 32,Lee Zii Jia,Zhao Jun Peng,69856.0,35660.0,34196.0,1
+2024-05-21,Malaysia Masters 2024,Round of 32,Brian Yang,Magnus Johannessen,51173.0,40510.0,10663.0,0
+2024-05-21,Malaysia Masters 2024,Round of 32,Anders Antonsen,Shesar Hiren Rhustavito,88391.0,21910.0,66481.0,1
+2024-05-28,Singapore Open 2024,Final,Shi Yu Qi,Li Shifeng,94915.0,83456.0,11459.0,1
+2024-05-28,Singapore Open 2024,Semifinal,Viktor Axelsen,Li Shifeng,98170.0,83456.0,14714.0,0
+2024-05-28,Singapore Open 2024,Semifinal,Shi Yu Qi,Chou Tien Chen,94915.0,63467.0,31448.0,1
+2024-05-28,Singapore Open 2024,Quarterfinal,Viktor Axelsen,Leong Jun Hao,98170.0,38518.0,59652.0,1
+2024-05-28,Singapore Open 2024,Quarterfinal,Li Shifeng,Loh Kean Yew,83456.0,64183.0,19273.0,1
+2024-05-28,Singapore Open 2024,Quarterfinal,Kenta Nishimoto,Chou Tien Chen,64982.0,63467.0,1515.0,0
+2024-05-28,Singapore Open 2024,Quarterfinal,Shi Yu Qi,Naraoka Kodai,94915.0,83597.0,11318.0,1
+2024-05-28,Singapore Open 2024,Round of 16,Viktor Axelsen,Lin Chun Yi,98170.0,60261.0,37909.0,1
+2024-05-28,Singapore Open 2024,Round of 16,Anthony Sinisuka Ginting,Leong Jun Hao,79585.0,38518.0,41067.0,0
+2024-05-28,Singapore Open 2024,Round of 16,Anders Antonsen,Loh Kean Yew,88391.0,64183.0,24208.0,0
+2024-05-28,Singapore Open 2024,Round of 16,Li Shifeng,Lee Cheuk Yiu,83456.0,58219.0,25237.0,1
+2024-05-28,Singapore Open 2024,Round of 16,Prannoy H. S.,Kenta Nishimoto,75982.0,64982.0,11000.0,0
+2024-05-28,Singapore Open 2024,Round of 16,Chou Tien Chen,Brian Yang,63467.0,51173.0,12294.0,1
+2024-05-28,Singapore Open 2024,Round of 16,Naraoka Kodai,Chico Aura Dwi Wardoyo,83597.0,44235.0,39362.0,1
+2024-05-28,Singapore Open 2024,Round of 16,Shi Yu Qi,Weng Hong Yang,94915.0,59950.0,34965.0,1
+2024-05-28,Singapore Open 2024,Round of 32,Viktor Axelsen,Lakshya Sen,98170.0,62318.0,35852.0,1
+2024-05-28,Singapore Open 2024,Round of 32,Lin Chun Yi,Ng Ka Long Angus,60261.0,52856.0,7405.0,1
+2024-05-28,Singapore Open 2024,Round of 32,Anthony Sinisuka Ginting,Lee Zii Jia,79585.0,73736.0,5849.0,1
+2024-05-28,Singapore Open 2024,Round of 32,Kanta Tsuneyama,Leong Jun Hao,45840.0,38518.0,7322.0,0
+2024-05-28,Singapore Open 2024,Round of 32,Anders Antonsen,Rasmus Gemke,88391.0,49134.0,39257.0,1
+2024-05-28,Singapore Open 2024,Round of 32,Loh Kean Yew,Lu Guang Zu,64183.0,56691.0,7492.0,1
+2024-05-28,Singapore Open 2024,Round of 32,Li Shifeng,Lei Lan Xi,83456.0,41526.0,41930.0,1
+2024-05-28,Singapore Open 2024,Round of 32,Lee Cheuk Yiu,Priyanshu Rajawat,58219.0,41810.0,16409.0,1
+2024-05-28,Singapore Open 2024,Round of 32,Kenta Nishimoto,Su Li Yang,64982.0,44480.0,20502.0,1
+2024-05-28,Singapore Open 2024,Round of 32,Prannoy H. S.,Julien Carraggi,75982.0,35947.0,40035.0,1
+2024-05-28,Singapore Open 2024,Round of 32,Christo Popov,Brian Yang,54285.0,51173.0,3112.0,0
+2024-05-28,Singapore Open 2024,Round of 32,Jonatan Christie,Chou Tien Chen,91727.0,63467.0,28260.0,0
+2024-05-28,Singapore Open 2024,Round of 32,Toma Junior Popov,Chico Aura Dwi Wardoyo,53355.0,44235.0,9120.0,0
+2024-05-28,Singapore Open 2024,Round of 32,Naraoka Kodai,Kidambi Srikanth,83597.0,49243.0,34354.0,1
+2024-05-28,Singapore Open 2024,Round of 32,Weng Hong Yang,Wang Tzu Wei,59950.0,53883.0,6067.0,1
+2024-05-28,Singapore Open 2024,Round of 32,Shi Yu Qi,Magnus Johannessen,94915.0,39910.0,55005.0,1
+2024-06-04,Indonesia Open 2024,Final,Shi Yu Qi,Anders Antonsen,94915.0,88391.0,6524.0,1
+2024-06-04,Indonesia Open 2024,Semifinal,Shi Yu Qi,Li Shifeng,94915.0,83456.0,11459.0,1
+2024-06-04,Indonesia Open 2024,Semifinal,Anders Antonsen,Kunlavut Vitidsarn,88391.0,76808.0,11583.0,1
+2024-06-04,Indonesia Open 2024,Quarterfinal,Kunlavut Vitidsarn,Lee Zii Jia,76808.0,75486.0,1322.0,1
+2024-06-04,Indonesia Open 2024,Quarterfinal,Anders Antonsen,Lakshya Sen,88391.0,61718.0,26673.0,1
+2024-06-04,Indonesia Open 2024,Quarterfinal,Li Shifeng,Leong Jun Hao,83456.0,39898.0,43558.0,1
+2024-06-04,Indonesia Open 2024,Quarterfinal,Shi Yu Qi,Toma Junior Popov,94915.0,53355.0,41560.0,1
+2024-06-04,Indonesia Open 2024,Round of 16,Anders Antonsen,Kantaphon Wangcharoen,88391.0,33330.0,55061.0,1
+2024-06-04,Indonesia Open 2024,Round of 16,Kenta Nishimoto,Lakshya Sen,64742.0,61718.0,3024.0,0
+2024-06-04,Indonesia Open 2024,Round of 16,Kunlavut Vitidsarn,Priyanshu Rajawat,76808.0,41810.0,34998.0,1
+2024-06-04,Indonesia Open 2024,Round of 16,Lee Zii Jia,Weng Hong Yang,75486.0,55150.0,20336.0,1
+2024-06-04,Indonesia Open 2024,Round of 16,Li Shifeng,Christo Popov,83456.0,54285.0,29171.0,1
+2024-06-04,Indonesia Open 2024,Round of 16,Chou Tien Chen,Leong Jun Hao,63467.0,39898.0,23569.0,0
+2024-06-04,Indonesia Open 2024,Round of 16,Lu Guang Zu,Toma Junior Popov,58791.0,53355.0,5436.0,0
+2024-06-04,Indonesia Open 2024,Round of 16,Shi Yu Qi,Rasmus Gemke,94915.0,49134.0,45781.0,1
+2024-06-04,Indonesia Open 2024,Round of 32,Anders Antonsen,Lee Cheuk Yiu,88391.0,58219.0,30172.0,1
+2024-06-04,Indonesia Open 2024,Round of 32,Chico Aura Dwi Wardoyo,Kantaphon Wangcharoen,45175.0,33330.0,11845.0,0
+2024-06-04,Indonesia Open 2024,Round of 32,Anthony Sinisuka Ginting,Kenta Nishimoto,79585.0,64742.0,14843.0,1
+2024-06-04,Indonesia Open 2024,Round of 32,Lakshya Sen,Kanta Tsuneyama,61718.0,45840.0,15878.0,1
+2024-06-04,Indonesia Open 2024,Round of 32,Kunlavut Vitidsarn,Loh Kean Yew,76808.0,64183.0,12625.0,1
+2024-06-04,Indonesia Open 2024,Round of 32,Prannoy H. S.,Priyanshu Rajawat,70632.0,41810.0,28822.0,0
+2024-06-04,Indonesia Open 2024,Round of 32,Lee Zii Jia,Ng Ka Long Angus,75486.0,54236.0,21250.0,1
+2024-06-04,Indonesia Open 2024,Round of 32,Weng Hong Yang,Kiran George,55150.0,39765.0,15385.0,1
+2024-06-04,Indonesia Open 2024,Round of 32,Christo Popov,Julien Carraggi,54285.0,35947.0,18338.0,1
+2024-06-04,Indonesia Open 2024,Round of 32,Li Shifeng,Brian Yang,83456.0,51173.0,32283.0,1
+2024-06-04,Indonesia Open 2024,Round of 32,Chou Tien Chen,Lin Chun Yi,63467.0,58161.0,5306.0,1
+2024-06-04,Indonesia Open 2024,Round of 32,Jonatan Christie,Leong Jun Hao,91727.0,39898.0,51829.0,0
+2024-06-04,Indonesia Open 2024,Round of 32,Wang Tzu Wei,Toma Junior Popov,53883.0,53355.0,528.0,0
+2024-06-04,Indonesia Open 2024,Round of 32,Naraoka Kodai,Rasmus Gemke,83597.0,49134.0,34463.0,0
+2024-06-04,Indonesia Open 2024,Round of 32,Lu Guang Zu,Su Li Yang,58791.0,44480.0,14311.0,1
+2024-06-04,Indonesia Open 2024,Round of 32,Shi Yu Qi,Lei Lan Xi,94915.0,41526.0,53389.0,1
